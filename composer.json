@@ -6,7 +6,9 @@
             "Ak\\Exchange\\": "src/"
         }
     },
-    "require": {},
+    "require": {
+        "ext-curl": "*"
+    },
     "config": {
       "sort-packages": true,
       "platform": {
