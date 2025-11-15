@@ -26,5 +26,7 @@ composer require ak14/exchange
 
 use Ak14\Exchange\Exchange;
 
-Получение списка валют
+## Получение списка валют
+```bash
 $currencies = new Exchange()->currencies();
+```
