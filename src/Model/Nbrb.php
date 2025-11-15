@@ -1,6 +1,6 @@
 <?php
-namespace Ak\Exchange\Model;
-use Ak\Exchange\Request\Nbrb as NbrbRequest;
+namespace Ak14\Exchange\Model;
+use Ak14\Exchange\Request\Nbrb as NbrbRequest;
 
 
 class Nbrb

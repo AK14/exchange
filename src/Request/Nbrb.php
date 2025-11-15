@@ -1,6 +1,6 @@
 <?php
 
-namespace Ak\Exchange\Request;
+namespace Ak14\Exchange\Request;
 
 /**
  * Класс Nbrb

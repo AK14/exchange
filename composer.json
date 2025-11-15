@@ -1,9 +1,9 @@
 {
-    "name": "ak/exchange",
+    "name": "ak14/exchange",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Ak\\Exchange\\": "src/"
+            "Ak14\\Exchange\\": "src/"
         }
     },
     "require": {

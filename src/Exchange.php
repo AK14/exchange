@@ -1,8 +1,8 @@
 <?php
 
-namespace Ak\Exchange;
+namespace Ak14\Exchange;
 
-use Ak\Exchange\Model\Nbrb;
+use Ak14\Exchange\Model\Nbrb;
 
 /**
  * Класс для работы с курсами валют.
