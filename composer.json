@@ -1,0 +1,16 @@
+{
+    "name": "ak/exchange",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ak\\Exchange\\": "src/"
+        }
+    },
+    "require": {},
+    "config": {
+      "sort-packages": true,
+      "platform": {
+        "php": "8.4"
+      }
+    }
+}
