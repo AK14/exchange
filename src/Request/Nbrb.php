@@ -10,7 +10,7 @@ namespace Ak14\Exchange\Request;
  */
 class Nbrb
 {
-    public mixed $currencies;
+    public $currencies;
     public function __construct()
     {
         $this->currencies = $this->getCurrencies();

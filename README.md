@@ -28,5 +28,5 @@ use Ak14\Exchange\Exchange;
 
 ## Получение списка валют
 ```bash
-$currencies = new Exchange()->currencies();
+$currencies = (new Exchange())->currencies();
 ```

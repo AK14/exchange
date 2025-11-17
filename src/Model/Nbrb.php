@@ -8,7 +8,7 @@ class Nbrb
     /**
      * @var array Поля валюты, которые необходимо извлечь из ответа API.
      */
-    public array $currencyFields = array('Cur_Code', 'Cur_Name','Cur_Abbreviation');
+    public $currencyFields = array('Cur_Code', 'Cur_Name','Cur_Abbreviation');
 
     /**
      * Получает список валют из API НБРБ и фильтрует их по заданным полям.
