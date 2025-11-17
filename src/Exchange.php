@@ -15,6 +15,6 @@ class Exchange
      */
     public function currencies(): array
     {
-        return new Nbrb()->listOfCurrencies();
+        return (new Nbrb())->listOfCurrencies();
     }
 }
